@@ -1,4 +1,5 @@
 # CodeClauseInternship_Stock_Price_Prediction
+CodeClause Data Science Internship Aug-23
 
 In this project, I have implement MRF Tyre Stock Price Prediction with a Machine Learning technique. We use the Long Short-Term Memory(LSTM) method to create a Machine Learning model to forecast MRF stock values. They are used to make minor changes to the information by multiplying and adding. Long-term memory (LSTM) is a deep learning artificial recurrent neural network (RNN) architecture.
 We also use TensorFlow, an Open-Source Python Machine Learning Framework developed by Google. TensorFlow makes it easy to implement Time Series forecasting data. Since Stock Price Prediction is one of the Time Series Forecasting problems, we will build an end-to-end MRF Tyre Stock Price Prediction with a Machine learning technique.
